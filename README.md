@@ -60,7 +60,7 @@ I'm a student at Java Institute and Co-founder of KreedX Software Club. I'm pass
 [![trophy](https://github-profile-trophy.vercel.app/?username=MasterofAAnonyms&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📜 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Elon Musk Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When%20something%20is%20important%20enough,%20you%20do%20it%20even%20if%20the%20odds%20are%20not%20in%20your%20favor.&author=Elon%20Musk)
 
 ## 💼 Projects
 - [Amazone.lk](https://github.com/MasterofAAnonyms/Amazone.lk): My first vivar project in my university(Java Institute for Advance Technology, Srilanka)
