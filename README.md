@@ -9,7 +9,8 @@ I'm a student at Java Institute and Co-founder of KreedX Software Club. I'm pass
 - 💬 Ask me about: HTML, CSS, JavaScript, Bootstrap frameworks, Tailwind CSS, React, PHP, MySQL, JAVA, Python, C#, XML
 - 👨‍💻 One of the Co-founders of KreedX 🌆
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aruth-koralearachchi-b69235266/)
-- ⚡ Fun fact: Call me as AnonyX.
+- ⚡ Fun fact: Playing Chess and Cricket and learning about newly updated technologies.
+- 🤖 Nicknames: Anony dev, AnonyX
 
 ## 🔧 Tech Stack
 
@@ -59,6 +60,6 @@ I'm a student at Java Institute and Co-founder of KreedX Software Club. I'm pass
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 💼 Projects
-- [Amazone.lk](https://github.com/MasterofAAnonyms/Amazone.lk): My first vivar project in my univercity
+- [Amazone.lk](https://github.com/MasterofAAnonyms/Amazone.lk): My first vivar project in my university(Java Institute for Advance Technology, Srilanka)
 - [pbay](https://github.com/MasterofAAnonyms/pbay): E-Commerce Application
 
