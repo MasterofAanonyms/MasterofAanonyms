@@ -48,7 +48,8 @@ I'm a student at Java Institute and Co-founder of KreedX Software Club. I'm pass
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruth-koralearachchi-b69235266/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thecwhirpoolrex)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/thehan2462)
 
 ## 📊 GitHub Stats
 ![MasterofAAnonymus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterofAAnonyms&show_icons=true&theme=radical)
