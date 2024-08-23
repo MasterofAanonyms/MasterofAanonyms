@@ -4,11 +4,12 @@
 I'm a student at Java Institute and Co-founder of KreedX Software Club. I'm passionate about web development, especially in PHP, and I'm currently working on some exciting projects.
 
 - 🔭 I’m currently working on: [Amazone.lk](https://github.com/MasterofAAnonyms/Amazone.lk)
-- 🌱 I’m currently learning: Java, Python, Tailwind CSS
+- 🌱 I’m currently learning: Java, Python, jQuery, Laravel, PHP, Tailwind CSS, & Next Js
 - 👯 I’m looking to collaborate on: Open Source Projects
 - 💬 Ask me about: HTML, CSS, JavaScript, Bootstrap frameworks, Tailwind CSS, React, PHP, MySQL, JAVA, Python, C#, XML
+- 👨‍💻 One of the Co-founders of KreedX 🌆
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aruth-koralearachchi-b69235266/)
-- ⚡ Fun fact: I love to hack my own code!
+- ⚡ Fun fact: Call me as AnonyX.
 
 ## 🔧 Tech Stack
 
