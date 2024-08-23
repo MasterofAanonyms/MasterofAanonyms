@@ -3,7 +3,7 @@
 ## About Me
 I'm a student at Java Institute and Co-founder of KreedX Software Club. I'm passionate about web development, especially in PHP, and I'm currently working on some exciting projects.
 
-- 🔭 I’m currently working on: [Amazone.lk](https://github.com/MasterofAAnonyms/Amazone.lk)
+- 🔭 I’m currently working on: [KreedX Dev Club]((https://kreedx.com/))
 - 🌱 I’m currently learning: Java, Python, jQuery, Laravel, PHP, Tailwind CSS, & Next Js
 - 👯 I’m looking to collaborate on: Open Source Projects
 - 💬 Ask me about: HTML, CSS, JavaScript, Bootstrap frameworks, Tailwind CSS, React, PHP, MySQL, JAVA, Python, C#, XML
