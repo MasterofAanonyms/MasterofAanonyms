@@ -40,6 +40,8 @@ I'm a student at Java Institute and Co-founder of KreedX Software Club. I'm pass
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat-square&logo=adobelightroom)
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-46A91E?style=flat-square&logo=coreldraw&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
