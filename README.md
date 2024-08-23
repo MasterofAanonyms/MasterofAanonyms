@@ -64,5 +64,5 @@ I'm a student at Java Institute and Co-founder of KreedX Software Club. I'm pass
 
 ## 💼 Projects
 - [Amazone.lk](https://github.com/MasterofAAnonyms/Amazone.lk): My first vivar project in my university(Java Institute for Advance Technology, Srilanka)
-- [pbay](https://github.com/MasterofAAnonyms/pbay): E-Commerce Application
+- [pbay](https://github.com/MasterofAAnonyms/pbay): E-Commerce Application by my friend Pasindu OG Dev
 
