@@ -4,13 +4,13 @@
 I'm a student at Java Institute and Co-founder of KreedX Software Club. I'm passionate about web development, especially in PHP, and I'm currently working on some exciting projects.
 
 - 🔭 I’m currently working on: [kreedx.com](https://kreedx.com/)
-- 🌱 I’m currently learning: Java, Python, jQuery, Laravel, PHP, Tailwind CSS, & Next Js
+- 🌱 I’m currently learning: Java, Python, Blender, Laravel, PHP, Tailwind CSS, Next Js & Flutter
 - 👯 I’m looking to collaborate on: Open Source Projects
 - 💬 Ask me about: HTML, CSS, JavaScript, Bootstrap frameworks, Tailwind CSS, React, PHP, MySQL, JAVA, Python, C#, XML
 - 👨‍💻 One of the Co-founders of KreedX 🌆
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aruth-koralearachchi-b69235266/)
 - ⚡ Fun fact: Playing Chess and Cricket and learning about newly updated technologies.
-- 🤖 Nicknames: Anony dev, AnonyX
+- 🤖 Nicknames: Master_of_anonymn(mostly),Anony dev, AnonyX
 
 ## 🔧 Tech Stack
 
