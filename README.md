@@ -1,15 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Master of Anonymous</h1>
-<h3 align="center">Co-founder of KreedX | Web Developer | Student at Java Institute</h3>
+<img src="https://github.com/IroshanRathnayake/IroshanRathnayake/blob/main/banner.png"/>
+
+<h1 align="center">Hi there 👋, I'm Thehan Aruth</h1>
+<h3 align="center">Co-founder of KreedX | Fullstack Developer | Student at Birmingham City University | Frontent-Lead of Kreedx dev club</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🚀 Co-founder of [KreedX Software Club](https://kreedx.com/)
-- 📚 Student at Java Institute for Advanced Technology
-- 💻 Passionate about web development, especially in **PHP** and **Tailwind CSS**
-- 🔭 Currently working on: [kreedx.com](https://kreedx.com/)
-- 🌱 Currently learning: `Java`, `Python`, `Laravel`, `Blender`, `Tailwind`, `Next.js`, `Flutter`
+- 📚 Student at Birmingham City University
+- 💻 Passionate about **web development**, **software development**, **Azure**, **O365**
+- 🔭 Currently working on: [kreedx.com](https://kreedx.com/),[microsoftitprocommunity](https://microsoftitpro.lk/)
+- 🌱 Currently learning: `Java`, `Python`, `Laravel`, `Azure`, `O365`, `O365`,`Blender`, `Tailwind`, `Next.js`, `Flutter`, `Unity`, `JavaScript`, `MySQL`, `Workbench || HeidiSQL`
 - 👯 Looking to collaborate on: **Open Source Projects**
 - 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `PHP`, `MySQL`, `Java`, `Python`, `C#`
 - 🎯 Fun fact: I enjoy playing **Chess**, **Cricket**, and exploring new tech
@@ -96,5 +98,5 @@
 ---
 
 <p align="center">
-  <em>Built with ❤️ by Master_of_anonymn</em>
+  <em>Built with ❤️ by me</em>
 </p>
