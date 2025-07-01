@@ -1,7 +1,8 @@
 <img src="https://github.com/IroshanRathnayake/IroshanRathnayake/blob/main/banner.png"/>
 
 <h1 align="center">Hi there 👋, I'm Thehan Aruth</h1>
-<h3 align="center">Co-founder of KreedX | Fullstack Developer | Student at Birmingham City University | Frontent-Lead of Kreedx dev club</h3>
+<h3 align="center">Co-Founder of Kreedx dev | Student at Birmingham City University | Developer at Microsoft ITPro community | Full-stack software engineer | Frontend-Lead and Fullstack
+  developer of Kreedx dev club | Member at MICTS</h3>
 
 ---
 
