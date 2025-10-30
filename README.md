@@ -79,7 +79,7 @@
 ### 💼 Projects
 
 - 🔗 [Amazone.lk](https://github.com/MasterofAAnonyms/Amazone.lk) – My first viva project at the Java Institute
-- 🔗 [PBay](https://github.com/MasterofAAnonyms/pbay) – E-Commerce Application built by my friend [@PasinduOGDev](https://github.com/PasinduOGDev)
+- 🔗 [Amazone.lk](https://github.com/MasterofAAnonyms/Amazone.lk) – My first viva project at the Java Institute
 
 ---
 
