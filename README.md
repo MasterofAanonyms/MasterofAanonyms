@@ -1,4 +1,4 @@
-<img src="https://cdn.mos.cms.futurecdn.net/W5LnBksnN2E3PTCdgDF9g3.png"/>
+<img src="https://github.blog/wp-content/uploads/2022/06/Copilot.jpeg?fit=1200%2C630"/>
 
 <h1 align="center">Hi there 👋, I'm Thehan Aruth</h1>
 <h3 align="center">Co-Founder of Kreedx dev | Student at Birmingham City University | Developer at Microsoft ITPro community | Full-stack software engineer | Frontend-Lead and Fullstack
